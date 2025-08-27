@@ -1,5 +1,11 @@
 {
+  "author":"Okoth Denzel",
   "name": "fcc-learn-node-with-express",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "express"
+  ],
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.15.2",
